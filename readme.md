@@ -6,9 +6,9 @@
 
 * Node v16+
 
-## ☕ Usando <nome_do_projeto>
+## ☕ Usando Desafio API Nodejs
 
-Para usar <nome_do_projeto>, siga estas etapas:
+Para usar Desafio API Nodejs, siga estas etapas:
 
 ```
 npm run start:dev
