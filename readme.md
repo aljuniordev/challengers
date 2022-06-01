@@ -1,25 +1,8 @@
-# Desafio API Nodejs
+# Personal challengers
 
-> Desafio criado para desenvolver uma API em node, visando em arquitetura limpa.
+> Repository created for personal learning and demonstrating personal training in challenges
 
-## 💻 Pré-requisitos
-
-* Node v16+
-
-## ☕ Usando Desafio API Nodejs
-
-Para usar Desafio API Nodejs, siga estas etapas:
-
-```
-npm run start:dev
-```
-
-#### Endpoints
-
-* http://localhost:8080/boleto/{barcode}
-
-## 🤝 Colaboradores
-
+## 🤝 Colaborador
 <table>
   <tr>
     <td align="center">
